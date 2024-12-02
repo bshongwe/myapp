@@ -1,5 +1,11 @@
 # MyApp 🚀
 
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/myapp)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/myapp)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/myapp)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/myapp)
+![GitHub License](https://img.shields.io/github/license/bshongwe/myapp)
+
 
 Welcome to **MyApp**, a sample Java application designed to demonstrate a robust CI/CD pipeline with tools for code quality, security, and continuous deployment.
 
